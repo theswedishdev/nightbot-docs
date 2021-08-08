@@ -1,8 +1,8 @@
-# Celsius to fahrenheit
-A utility command to convert from celsius to fahrenheit.
+# Celsius to Fahrenheit
+A utility command to convert from Celsius to Fahrenheit.
 
 ## Usage
-`!ctof <temperature in celsius>`
+`!ctof <temperature in Celsius>`
 
 ### Example
 `!ctof 25`

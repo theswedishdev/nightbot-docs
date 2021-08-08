@@ -6,16 +6,16 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'theswedishdev',
   projectName: 'nightbot-docs',
   themeConfig: {
     navbar: {
       title: 'Nightbot resources',
-      // logo: {
-      //   alt: 'My Site Logo',
-      //   src: 'img/logo.svg',
-      // },
+      logo: {
+        alt: 'TheSwedishDev',
+        src: 'img/logo.png',
+      },
       items: [
         {
           type: 'doc',
@@ -43,7 +43,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Contact',
           items: [
             {
               label: 'Website',
@@ -61,6 +61,10 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/theswedishdev',
+            },
+            {
+              label: 'My timeline',
+              href: 'https://timeline.joelericsson.dev',
             },
           ],
         },

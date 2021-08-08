@@ -8,7 +8,7 @@ Reminds the streamer to eat.
 `!eat`
 
 ```
-@theswedishdev don't forget to eat!
+@TheSwedishDev don't forget to eat!
 ```
 
 ## User level
@@ -16,5 +16,5 @@ The recommended user level for this command is `everyone`.
 
 ## Add command
 ```js
-!addcom !eat @$(channel) don't forget to eat!
+!addcom !eat $(twitch $(channel) "{{displayName}}") don't forget to eat!
 ```
