@@ -1,5 +1,5 @@
 # Fridge
-Let the user try getting something from the fridge.
+Let the viewers try getting something from the fridge.
 
 ## Usage
 `!fridge`
