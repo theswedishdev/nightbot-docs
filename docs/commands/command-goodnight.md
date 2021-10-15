@@ -16,5 +16,5 @@ The recommended user level for this command is `everyone`.
 
 ## Add command
 ```js
-!addcom !goodnight Goodnight $(touser)! Have you some wonderful sleeps and I hope you'll wake up well-rested. <3
+!addcom !goodnight Goodnight $(touser)! Have you some wonderful sleeps and I hope you'll wake up well-rested tomorrow. <3
 ```
