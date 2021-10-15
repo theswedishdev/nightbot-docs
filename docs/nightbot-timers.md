@@ -21,3 +21,11 @@ Give the viewers a little nudge and friendly reminder to join the Discord server
 ```
 Join our wonderful little community outside of Twitch by joining our Discord! <link to Discord>
 ```
+
+### Host reminder
+Give the viewers a little nudge and friendly reminder to host the stream as it greatly helps supporting the stream.
+
+#### Message
+```
+Hosting is a great way to support the stream, type "/host $(twitch $(channel) "{{displayName}}")" in your own chat - and you will help boost my stream in recommended channels <3
+```
